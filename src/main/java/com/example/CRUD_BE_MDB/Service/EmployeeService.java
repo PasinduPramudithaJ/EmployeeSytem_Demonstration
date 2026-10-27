@@ -3,8 +3,6 @@ package com.example.CRUD_BE_MDB.Service;
 import com.example.CRUD_BE_MDB.DTO.EmployeeDTO;
 import com.example.CRUD_BE_MDB.Model.Employee;
 
-import jakarta.validation.Valid;
-
 import java.util.List;
 
 public interface EmployeeService {
